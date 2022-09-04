@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ### About me
 - **Homepage**: https://qiaolin-yu.github.io/
 
-- **Linkedin**: https://www.linkedin.com/in/qiaolin-yu/
+- **LinkedIn**: https://www.linkedin.com/in/qiaolin-yu/
