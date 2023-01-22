@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
 # About me
-I am a senior undergraduate student focusing on database systems.
+I am a senior undergraduate student focusing on data infrastructure.
 
 Find me on: [Homepage](https://qiaolin-yu.github.io/) | [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/) | [Email](mailto:liin1211@outlook.com)
