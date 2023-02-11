@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me
 I am a senior undergraduate student focusing on data infrastructure.
