@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 # About me
 I am a senior undergraduate student focusing on data-intensive systems.
 
-Find me on: [Homepage](https://qiaolin-yu.github.io/) | [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/) | [Email](mailto:liin1211@outlook.com)
+Find me on: [Homepage](https://qiaolin-yu.github.io/) | [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/) | [Email](mailto:qiaolin@uw.edu)
