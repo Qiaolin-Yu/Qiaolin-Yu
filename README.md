@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
-I am a senior undergraduate student focusing on data-intensive systems. 
+I am a 4th year undergraduate student focusing on data-intensive systems. 
 
 Find me on: 
 - [Homepage](https://qiaolin-yu.github.io/)
