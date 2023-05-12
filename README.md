@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
-I am an incoming MS ECE student at the [University of Washington](https://www.washington.edu/) with a focus on data-intensive systems. 
+I am an incoming graduate student at the [University of Washington](https://www.washington.edu/) with a focus on data-intensive systems. 
 
 Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
 
