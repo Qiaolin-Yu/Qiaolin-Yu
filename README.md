@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  -->
 I am an incoming MS ECE student at the [University of Washington](https://www.washington.edu/) with a focus on data-intensive systems. 
 
-Currently, I am actively seeking **2024 summer internship** opportunities in the United States. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
+Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
 
 Find me on: 
 - [Homepage](https://qiaolin-yu.github.io/)
