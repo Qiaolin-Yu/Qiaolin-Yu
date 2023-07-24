@@ -22,4 +22,4 @@ Currently, I am actively seeking **2024 summer internship** opportunities in bot
 Find me on: 
 - [Homepage](https://qiaolin-yu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/)
-- [Email](mailto:qiaolin@uw.edu)
+- [Email](mailto:qy254@cornell.edu)
