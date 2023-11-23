@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
-I am Qiaolin Yu, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). My interests primarily focus on data infrastructure, encompassing key-value stores, cloud-native databases, graph databases, and hybrid transactional and analytical processing (HTAP).
+I am Qiaolin Yu, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a research intern at [Cornell Computer Systems Laboratory](https://www.csl.cornell.edu/). My interests primarily focus on machine learning infrastructure, database systems, and storage systems.
 
 <!-- Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. -->
 Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
