@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Qiaolin Yu, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a research intern at [Cornell Computer Systems Laboratory](https://www.csl.cornell.edu/). My interests primarily focus on LSM-Tree based key-value stores, database systems, and machine learning systems.
 
 <!-- Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. -->
-Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
+Resume available upon request. If you would like to chat, feel free to reach out.
 
 Find me on: 
 - [Homepage](https://qiaolin-yu.github.io/)
