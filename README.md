@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
-I am Qiaolin Yu, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a research intern at [Cornell Computer Systems Laboratory](https://www.csl.cornell.edu/). My interests primarily focus on LSM-Tree based key-value stores, database systems, and machine learning systems.
+I am Qiaolin Yu, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a research intern at [Cornell Computer Systems Laboratory](https://www.csl.cornell.edu/). My interests primarily focus on LSM-Tree based key-value stores, database systems, machine learning systems, and haircutting.
 
 <!-- Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. -->
 My resume is available upon request. If you would like to chat, feel free to reach out.
