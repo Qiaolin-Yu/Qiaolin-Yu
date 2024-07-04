@@ -25,4 +25,3 @@ Find me on:
 - [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Uc2H6VMAAAAJ)
 - [Email](mailto:qy254@cornell.edu)
-- [LeetCode](https://leetcode.com/1iin/)
